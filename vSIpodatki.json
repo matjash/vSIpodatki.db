@@ -3,8 +3,8 @@
     {
       "name": "DOF 2018",
       "source": "crs='' crs='' format='' layer='0' url='https://geohub.gov.si/ags/rest/services/TEMELJNE_KARTE/DOF2018_D96/MapServer'",
-      "provider": "GURS",
-      "layer_provider": "arcgismapserver"
+      "data_provider": "GURS",
+      "provider": "arcgismapserver"
     }
   ]
 }

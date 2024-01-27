@@ -2,7 +2,7 @@
   "layers": [
     {
       "name": "DOF 2018",
-      "source": "crs='' crs='' format='PNG32' layer='0' url='https://geohub.gov.si/ags/rest/services/TEMELJNE_KARTE/DOF2018_D96/MapServer'",
+      "source": crs='' crs='' format='PNG32' layer='0' url='https://geohub.gov.si/ags/rest/services/TEMELJNE_KARTE/DOF2018_D96/MapServer',
       "provider": "GURS",
       "layer_provider": "arcgismapserver"
     }

@@ -11,6 +11,5 @@
       "provider": "GURS",
       "layer_provider": "arcgismapserver"
     }
-    // More layers can be added here
   ]
 }
